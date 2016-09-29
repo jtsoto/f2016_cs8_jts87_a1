@@ -1,0 +1,8 @@
+USC or Metric?usc
+How many miles driven?7200
+How many gallons of gas used?200
+                             USC                Metric
+Distance               :  7200.000 miles   11587.248 km
+Gas                    :   200.000 gallons   757.082 liters
+Consumption            :    36.000 mpg         6.000 1/100km
+Gas Consumption Rating: excellent

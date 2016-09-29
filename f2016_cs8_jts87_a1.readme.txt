@@ -1,0 +1,6 @@
+The main goal of the majority of my code is to create seven variables for the numbers I need to output for the user. I did this by
+breaking my program into five parts. Part one asks for inputs from the user so that the program can use them for parts and three.
+Parts two and three take the inputs of the user for distance and gas, converts them to the unselected measurement, and makes the 
+conversions into variables for later. Part four takes the variables the program has created so far and puts them into corresponding
+functions to create a fuel consumption. Part five takes fuel consumption and gives it a rating using a series of if and elif statements.
+Finally, all variables are outputed to the user in the requested format. 
